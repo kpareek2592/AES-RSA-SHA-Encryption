@@ -1,0 +1,14 @@
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.exe
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.deps.json
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.runtimeconfig.json
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.runtimeconfig.dev.json
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.dll
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\bin\Debug\netcoreapp3.1\FileEncryptionConsoleApp.pdb
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.AssemblyInfo.cs
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.dll
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.pdb
+C:\Users\Global\source\repos\FileEncryptionConsoleApp\FileEncryptionConsoleApp\obj\Debug\netcoreapp3.1\FileEncryptionConsoleApp.genruntimeconfig.cache
